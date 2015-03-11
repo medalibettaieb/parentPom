@@ -13,5 +13,7 @@ public interface UserManagementLocal {
 	List<User> hatElKoll();
 
 	User jibBellesm(String name);
+	
+	
 
 }
