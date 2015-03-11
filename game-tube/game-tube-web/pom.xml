@@ -44,8 +44,8 @@
 				<configuration>
 					<!-- <port>10090</port> -->
 					<hostname>172.18.0.24</hostname>
-					<username>jbossmanager</username>
-					<password>wildfly8</password>
+					<username>root</username>
+					<password>root</password>
 					<port>9990</port>
 					<filename>${project.artifactId}.war</filename>
 				</configuration>
